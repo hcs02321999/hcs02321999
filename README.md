@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hcs02321999
 - 📫 How to reach me email at hcs223@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to play professional baseball, now I want to use my knowledge of the game combined with analytics to make an impact off the field.
+- ⚡ Fun fact: I used to play professional baseball
 
 <!---
 hcs02321999/hcs02321999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
