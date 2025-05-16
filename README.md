@@ -8,6 +8,6 @@ hcs02321999/hcs02321999 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Hello World;
-In my portfolio I have included python scripts that reflect my ability to analyze and clean data. 
+In my portfolio I have included code that reflect my ability to analyze and clean data. 
 I am familiar with and have practice using Tableau and SQL 
 
